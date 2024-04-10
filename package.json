@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  },
+  "scripts": {
+    "typescript": "tsc -w app.ts"
+  }
+}
